@@ -1,0 +1,94 @@
+From various sources, I've compiled a list of common interview questions - 
+
+Arrays:
+
+1.) Find the most frequent integer in an array.
+2.) Return the sum of two largest integers in an array.
+3.) Find pairs in an integer array whose sum is equal to 10. Bonus: Complete in O(n).
+4.) Given 2 integer arrays, determine of the 2nd array is a rotated version of the 1st array. Ex. Original Array A={1,2,3,5,6,7,8} Rotated Array B={5,6,7,8,1,2,3}.
+
+5.) Find the only element in an array that only occurs once.
+6.) Find the common elements of 2 int arrays.
+7.) Given a 2D array of 1s and 0s, count the number of "Islands of 1s" (e.g. groups of connecting 1s).
+
+8.) You are given an array with integers between 1 and 1,000,000. One integer is in the array twice. How can you determine which one?
+
+9.) You are given an array with integers between 1 and 1,000,000. One integer is missing. How can you determine which one? Can you think of a way to do it while iterating through the array only once. Is overflow a problem in the solution? Why not?
+
+
+Strings:
+
+1.) Reverse words in a string (words are separated by one or more spaces).
+2.) Reverse a string recursively and iteratively. Bonus: Check if palindrome.
+3.) Strip whitespace from a string.
+4.) Remove duplicate chars from a string. Ex: "AAA BBB" -> "A B".
+5.) Find the first non-repeating character in a string. Ex: "ABCA" -> B.
+6.) Check if a String is composed of all unique characters.
+7.) Determine if 2 Strings are anagrams.
+8.) Print all permutations of a String.
+9.) Find the shortest palindrome in a String.
+
+
+Sorting:
+
+1.) Implement Bubble Sort.
+2.) Implement Selection Sort.
+3.) Implement Insertion Sort.
+4.) Implement Merge Sort.
+5.) Implement Quick Sort.
+
+
+Linked Lists:
+
+1.) Implement a  Singly/Doubly/Circular-Linked List and Insert/Delete functions to go with it.
+2.) Split a Linked List given a pivot value.
+3.) Find the middle of a Linked List. Bonus: Do it while only iterating once.
+4.) Find the Nth element in a Linked List. Bonus: Remove that Nth element.
+5.) Check whether a Linked List is a palindrome.
+6.) Reverse a Linked List recursively. Bonus: Do it iteratively.
+7.) Determine if there is a cycle in a Linked List.
+
+
+Trees:
+
+1.) Implement a Binary Tree (BT) with insert and delete functions. Bonus: Implement In-Order, Pre-Order, and Post-Order functions.
+
+2.) Implement a Binary Search Tree (BST) with insert and delete functions.
+3.) Write a function that determines whether or not a tree is a BST.
+4.) Find the smallest element in a BST. Bonus: Find the second smallest.
+5.) Find the largest element in a BST. Bonus: Find the second largest.
+6.) Given a binary tree which is a sum tree, write a function to determine if a given tree is a valid sum tree.
+
+7.) Find the distance between two nodes in a BST and a normal binary tree.
+8.) Print the coordinates of every node in a binary tree where the root is (0,0).
+9.) Construct a BST given the pre-order and in-order traversal Strings.
+
+
+Stacks:
+
+1.) Implement a stack with push and pop functions. Bonus: Write a function that sorts the stack.
+2.) Find the minimum element in a stack in O(1) time.
+3.) Write a function to figure out if the system stack grows up or down.
+
+
+Queues:
+
+1.) Implement a queue with queue and dequeue functions.
+2.) Implement a queue using two stacks.
+
+
+Heaps:
+
+1.) Implement a binary min heap.
+2.) Implement a binary max heap.
+
+
+Other:
+
+1.) Write a function that prints out the binary form of an int.
+2.) Implement parseInt.
+3.) Implement a squareroot function.
+4.) Implement an exponent function. Bonus: Attempt O(log(n)) time.
+5.) Write a multiply function that multiples 2 integers without using an asterisk.
+6.) Open a file as securely as possible. Assume user is malicious.
+7.) Implement a function to return a ratio from a double (i.e. 0.25 -> 1/4).
