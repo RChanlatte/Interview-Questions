@@ -1,5 +1,5 @@
 /* =============================================================================
-	$File: IQ_HelloWorldTest.c $
+	$File: IQ_HelloWorldTest_Cpp.cpp $
 	$Date: 03/08/2017 - 8:05 P.M. $
 	$Revision: 1 $
 	$Creator: Ryan Chanlatte $
@@ -29,13 +29,12 @@
 
 ============================================================================= */
 
+#include <iostream>
 #include <stdio.h>
 
-// classic starting point. Just a simple test program to ensure git, gcc, and
-// MSVC are all on the same page.
-int main(int argc, char **argv)
+int main(int agrc, char **argv)
 {
-	printf("Hello World!\n");
+	std::cout << "Hello World!" << std::endl;
 	getchar();
 	
 	return 0;
