@@ -3,7 +3,7 @@ From various sources, I've compiled a list of common interview questions -
 Arrays:
 
 1.) Find the most frequent integer in an array.
-2.) Return the sum of two largest integers in an array.
+2.) Return the sum of two largest integers in an array. $$$ DONE. $$$
 3.) Find pairs in an integer array whose sum is equal to 10. Bonus: Complete in O(n).
 4.) Given 2 integer arrays, determine of the 2nd array is a rotated version of the 1st array. Ex. Original Array A={1,2,3,5,6,7,8} Rotated Array B={5,6,7,8,1,2,3}.
 
@@ -18,7 +18,7 @@ Arrays:
 
 Strings:
 
-1.) Reverse words in a string (words are separated by one or more spaces).
+1.) Reverse words in a string (words are separated by one or more spaces). $$$ DONE. $$$
 2.) Reverse a string recursively and iteratively. Bonus: Check if palindrome.
 3.) Strip whitespace from a string.
 4.) Remove duplicate chars from a string. Ex: "AAA BBB" -> "A B".
